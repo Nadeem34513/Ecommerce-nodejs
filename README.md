@@ -1,3 +1,3 @@
-# LAMA Ecommerce
-Simple Ecommerce using MERN Stack
+# Ecommerce API
 
+Not yet completed
